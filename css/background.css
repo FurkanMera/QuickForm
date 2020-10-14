@@ -1,0 +1,61 @@
+body {
+  
+  height: 80vh;
+  background: linear-gradient(45deg, #B984DE, #8C12E1);
+  background-size: 500% 500%;
+  animation: back 2s ease-in-out infinite;
+  animation-direction: alternate;
+  
+}
+
+@keyframes back {
+  
+  0% {background-position: 0%} 
+  100% {background-position: 100%}
+  
+}
+
+.object-one {
+  
+  opacity: 0.4;
+  width: 70px;
+  height: 150px;
+  border-radius: 0 0 100px 100px;
+  background: #430863;
+  position: absolute;
+  top: 0;
+  left: 1px;
+  
+}
+
+.object-two {
+  
+  opacity: 0.4;
+  width: 70px;
+  height: 150px;
+  border-radius: 100px 100px 0 0;
+  background: #430863;
+  position: absolute;
+  bottom: 0;
+  right: 1px;
+ 
+}
+
+@media only screen and (max-width: 900px) {
+  
+.object-one {
+  
+  width: 10%;
+  height: 15%;
+  
+}
+
+.object-two {
+  
+  width: 10%;
+  height: 15%;
+  
+}
+  
+  
+}

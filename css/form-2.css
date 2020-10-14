@@ -1,0 +1,202 @@
+.form-2 {
+  
+  width: 250px;
+  height: 450px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  display: flex;
+  justify-content: center;
+  animation: form 1.5s ease;
+  
+}
+
+.form-2.hide {
+  
+  position: absolute;
+  top: -1000px;
+  opacity: 0;
+  visibility: 0;
+  
+}
+
+@keyframes form {
+  
+  0% {
+    
+    opacity: 0;
+    visibility: 0;
+    left: -1000px;
+    
+  }
+  
+}
+
+.user-2 {
+  
+  width: 110px;
+  height: 110px;
+  background: url('https://i.hizliresim.com/nfWFSZ.png');
+  background-size: cover;
+  
+}
+
+::placeholder {
+  
+  color: white;
+  
+}
+
+input[type=email] {
+  
+ width: 150px;
+ height: 30px;
+ border: none;
+ background: none;
+ border-bottom: 1.5px solid white;
+ font-size: 15px;
+ padding-left: 10px;
+ position: absolute;
+ top: 150px;
+ left: 45px;
+ 
+}
+
+input[type=email]:focus {
+  
+  outline: none;
+  color: white;
+  
+}
+
+input[type=password] {
+  
+ width: 150px;
+ height: 30px;
+ border: none;
+ background: none;
+ border-bottom: 1.5px solid white;
+ font-size: 15px;
+ padding-left: 10px;
+ position: absolute;
+ top: 200px;
+ left: 45px;
+  
+}
+
+input[type=password]:focus {
+  
+  outline: none;
+  color: white;
+  
+} 
+
+input[type=checkbox] {
+  
+  left: 40px; 
+  width: 16px;
+  height: 16px;
+  
+}
+
+.checkbox-2 {
+  
+  position: absolute;
+  top: 300px;
+  
+}
+
+
+input[type=checkbox]:before {
+  
+  content: "";
+  display: block;
+  width: 13px;
+  height: 13px;
+  border: 1.5px solid #7F3CFF;
+  border-radius: 3px;
+  background-color: white;
+  
+}
+
+input[type=checkbox]:checked:after {
+  
+  content: "";
+  display: block;
+  width: 3px;
+  height: 6px;
+  border: solid #7F3CFF;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 2px;
+  left: 6px;
+  
+}
+
+.checkbox-info-2 {
+  
+  color: white;
+  font-size: 12px;
+  left: 70px;
+  object-fit: contain;
+  
+}
+
+.checkbox-info-2.check-2 {
+  
+  position: absolute;
+  top: 305px;
+  
+}
+
+.span-2 {
+  
+  position: absolute;
+  top: 400px; 
+  
+}
+
+a {
+  
+  color: #00C4FF;
+  
+}
+
+#password2 {
+  
+  font-size: 13.5px;
+  position: absolute;
+  top: 250px;
+  
+}
+
+#button-2 {
+  
+  position: absolute;
+  top: 350px;
+  
+}
+
+@media only screen and (max-width: 900px) {
+  
+.form-2 {
+   
+  position: absolute;
+  top: 55px;
+  left: 33px;
+   
+ }
+ 
+ .form-2.hide {
+  
+  position: absolute;
+  top: -1500px;
+  opacity: 0;
+  visibility: 0;
+  
+}
+  
+} 
