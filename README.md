@@ -5,6 +5,6 @@
 
 > in this template ```HTML```, ```CSS``` & ```JAVASCRIPT``` languages were used.
 
-> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Stars](https://img.shields.io/github/stars/bedirhandogan/QuickForm)](https://github.com/bedirhandogan/QuickForm/stargazers) [![Version](https://img.shields.io/github/package-json/v/bedirhandogan/QuickForm?color=blue)](https://github.com/bedirhandogan/QuickForm)
+> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Stars](https://img.shields.io/github/stars/bedirhandogan/QuickForm)](https://github.com/bedirhandogan/QuickForm/stargazers)
 
 
