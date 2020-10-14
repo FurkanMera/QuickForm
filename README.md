@@ -9,8 +9,11 @@
 
 ## Desktop screenshot:
 
->
->
+ - Sign in:
+> ![screenshot](https://i.hizliresim.com/fSX736.jpg)
+
+- Sign up:
+> ![screenshot](https://i.hizliresim.com/Yqceet.jpg)
 
 
 ## Mobile screenshot:
