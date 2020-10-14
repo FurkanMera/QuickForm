@@ -1,2 +1,2 @@
 # QuickForm
-quick form template all operations on a single page
+> ![QuickForm](https://i.hizliresim.com/kwql9W.jpg)
