@@ -7,8 +7,6 @@
 
 > in this template ```HTML```, ```CSS``` & ```JAVASCRIPT``` languages were used.
 
-> 👀 See web template: http://bedirhandogan.com/demo/QuickForm/
-
 > [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Stars](https://img.shields.io/github/stars/bedirhandogan/QuickForm)](https://github.com/bedirhandogan/QuickForm/stargazers)
 
 ## 📷 Desktop screenshot:
