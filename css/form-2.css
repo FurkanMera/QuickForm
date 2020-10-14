@@ -95,6 +95,7 @@ input[type=password]:focus {
 
 input[type=checkbox] {
   
+  cursor: pointer;
   left: 40px; 
   width: 16px;
   height: 16px;
